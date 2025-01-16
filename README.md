@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://bilalaltiti-portfolio.netlify.app/](https://bilalaltiti-portfolio.netlify.app/)
 
-- 💬 Ask me about **React ,C#,.Interframework**
+- 💬 Ask me about **React ,C#,.Net framework**
 
 - 📫 How to reach me **bilalaltiti@hotmail.com**
 
